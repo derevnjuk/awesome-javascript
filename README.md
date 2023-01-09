@@ -159,6 +159,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
+* [SecTester](https://github.com/NeuraLegion/sectester-js) - SecTester is a new tool that integrates [Bright](https://brightsec.com/) enterprise-grade scan engine directly into your integration or e2e tests.
 
 ### Assertion
 
